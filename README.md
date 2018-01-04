@@ -1,17 +1,12 @@
 # AnimeFLlist
-This repository contains the anime Forbidden/Limited list used in Ygopro Percy.
+-This repository contains the anime Forbidden/Limited list used in Ygopro Percy.
 
-Current Version: 2017.11
+-Current Version: 2017.11
 --This file contains the reasons why cards are added or removed from the list
 
 
-Changelog (to the new version)
+-Changelog (to the new version)
 
-
-
-
-
-__Format to be used__
 
 __ID   Limitation --   CARD NAME = Reason__
 -
