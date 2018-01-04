@@ -13,7 +13,7 @@ Changelog (to the new version)
 Format to be used
 
 
-ID   Limitation --   CARD NAME = Reason
+*ID   Limitation --   CARD NAME = Reason*
 511009310 1 --Synchro Zone =  Only Synchro decks can attack
 
 
