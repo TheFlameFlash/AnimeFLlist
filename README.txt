@@ -33,4 +33,4 @@ _ID   New Limitation --   CARD NAME = Reason_
 511000633 0 --Yowie = stronger yata garasu
 513000060 0 --Number 39: Utopia Beyond (Anime) = completely overpowered monster
 511009162 0 --Performapal Return Tantan (Anime) = abusuable with loops for draw
-511600001 1 --Performapal Guitartle (Anime) = no OPT draw effect
+511600001 0 --Performapal Guitartle (Anime) = no OPT draw effect
