@@ -39,5 +39,6 @@ ID   New Limitation --   CARD NAME = Reason
 511002101 0 --Photon Satellite (Anime) = an infinite level increaser, FTK with Dark Strike Fighter
 511000162 0 --Altar of Restoration = recovers any card from graveyard
 511000167 3 --Dark Wall of Wind = a worse Waboku
-511001612 3 ---Numbers Exist = same as Synchro Gift
+511001612 3 --Numbers Exist = same as Synchro Gift
+513000004 0 --Hundred Eyes Dragon (Anime) == gains ALL effects from dark monsters in the graveyard
 
