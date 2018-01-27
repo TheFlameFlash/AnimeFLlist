@@ -6,10 +6,10 @@ Current Version: 2017.11 Anime
 This file contains the reasons why cards are added or removed from the list
 
 
-__Changelog (to the new version)__
+Changelog (to the new version)
 
 
-_ID   New Limitation --   CARD NAME = Reason_
+ID   New Limitation --   CARD NAME = Reason
 
 511005654 0 --Dark Hole (DOR) = Heavy Storm AND Dark Hole in a single card for a costless board wipe
 511000751 0 --Blade Graveyard = Recycler for any card. Easy to put in the graveyard
@@ -33,4 +33,11 @@ _ID   New Limitation --   CARD NAME = Reason_
 511000633 0 --Yowie = stronger yata garasu
 513000060 0 --Number 39: Utopia Beyond (Anime) = completely overpowered monster
 511009162 0 --Performapal Return Tantan (Anime) = abusuable with loops for draw
-511600001 0 --Performapal Guitartle (Anime) = no OPT draw effect
+511600001 0 --Performapal Guitartle (Anime) = non-OPT draw effect
+511000773 0 --Traitor Fog = a costless Snatch Steal
+511020003 0 --Performapal Springoose (Anime) == Non-OPT self-bounce
+511002101 0 --Photon Satellite (Anime) = an infinite level increaser, FTK with Dark Strike Fighter
+511000162 0 --Altar of Restoration = recovers any card from graveyard
+511000167 3 --Dark Wall of Wind = a worse Waboku
+511001612 3 ---Numbers Exist = same as Synchro Gift
+
