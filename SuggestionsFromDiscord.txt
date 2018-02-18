@@ -1,35 +1,32 @@
--Negative Energy
--Negative Energy Generator
--Pump Up!
--->Easy ATK booster by huge amount
-
-Odd-eyes Persona Dragon, anime: Monster Effect is no longer Quick
-
-
--Performapal Lizardraw, aanime
--Dark Magic Curtain Anime: any Spellcaster in hand or Deck, potential abusal, but benefit opponent that uses Spellcaster as well
--Fusion Future: Ban
--Mistrust: Free, one-sided Vanity’s
-
-
-
-AlphaKretin  27 Nov 2017
-1-Illegal cards (Match Winners, ZeXal "Shout this phrase", etc.) should not automatically be limited.
-The Zexal ones, except the banned ones, don't do much, let alone with one of them banned, and should be unlimited.
-
-The match winners too are basically vanillas and IMO should unlimited.
+AlphaKretin - 01/28/2018
+Duel Mode cards like Boss Duel should not be banned, they shouldn't be considered the same thing as anime cards.
+Since Edo is preparing duel modes for them, let them be handled that way and remove them as cards you can add to deck edit maybe.
 
 Not every Timelord should be in the same place.
 Some, like the one that does half LP damage, should maybe be banned.
 Others are almost identical to their IRL counterpart and should be unlimited (or even considered for removal?).
 The anime 513 ones are also weaker because you need a specific trap to summon them without Tribute, and should be considered for lighter restrictions.
 
-Duel Mode cards like Boss Duel should not be banned, they shouldn't be considered the same thing as anime cards.
-Since Edo is preparing duel modes for them, let them be handled that way and remove them as cards you can add to deck edit maybe.
+Timelords:
+Sandaion TF6 - Free 4k beater (admittedly does no battle damage) that does 2k burn when it attacks. 4 turns of this shaving off your LP seems pretty potent, could see a limit or other hit.
+Halion TF6 - Burns your LP until its as low as yours. Requires you to be losing, can be safely unlimited IMO.
+Raphion TF6  - Volcasaurus, can be safely unlimited.
+Gabrion TF6 - Shuffles 1 target into deck. Worse than OCG Kamion, safely unlimit.
+Kamion TF6 - Almost identical to OCG, safely unlimit.
+Zaphion TF6 - Ditto
+Michion TF6 - Half opponent's LP. Kind of a potent effect to get for free, could see a limit or something.
+Lazion TF6 - Similar to OCG, would say safely unlimit. Only worry is it's kinda Trickstar Lycoris but ehh
+Sadion TF6 - Almost identical to OCG, safely unlimit
 
-
-
-
-
+Sandaion Anime - 4k burn and deals damage with 4k body, a direct attack is a one hit kill, and while you can't normal summon anime timelords you can special summon them by any method. Probably ban?
+Zaphion Anime - Floats into Anime Card of Demise. Ban.
+Metaion Anime - Similar to OCG besides summoning con, probably safe to unlimit.
+Kamion Anime - Spins whole board and burns, probably worth a hit though not sure what level exactly.
+Lazion Anime - Also spins whole board but with no burn, maybe hit but not as much as kamion.
+Halion Anime - Works if you're winning, but it still feels kind of niche and unreliable, not sure it needs to be hit.
+Gabrion Anime - Spins entire board, including backrow this time. See Lazion?
+Sadion Anime - See Metaion
+Michion Anime - See TF6
+Raphion Anime - See TF6
 
 

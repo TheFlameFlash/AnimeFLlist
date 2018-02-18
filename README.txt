@@ -24,7 +24,7 @@ ID   New Limitation --   CARD NAME = Reason
 511000907 0 --Compulsory Recoil Device = no opt for self bounce
 100000117 2 --Life Force = can render batlle damage useless
 511009613 0 --Abyss Invitation = Dark Room loop and Trickstar abusable
-31980955 3 --Quiet Life = Little to no difference compared to the OCG card, without being ever relevant
+31980955 3 --Quiet Life = Little to no difference compared to the OCG card, without the later being ever relevant
 511001676 0 --Raise the Woof = Costless/conditionless token summoner
 511001901 0 --Shield Wall = Costless/conditionless token summoner
 511004423 1 --Odd-Eyes Phantasma Dragon = strong effects with no cost 
@@ -41,4 +41,19 @@ ID   New Limitation --   CARD NAME = Reason
 511000167 3 --Dark Wall of Wind = a worse Waboku
 511001612 3 --Numbers Exist = same as Synchro Gift
 513000004 0 --Hundred Eyes Dragon (Anime) == gains ALL effects from dark monsters in the graveyard
+513000160 0 --Negative Energy == provides effect to every DARK monsters.
+513000020 1 --Negative Energy Generator == provides absurd attack to single DARK monster
+511000924 1 --Pump Up! ==Generic Attack boost to single monster that lasts for only 1 turn
+511002532 1 --Dark Magic Curtain (Anime): potentially dangerous given the pool of cards it can summon
+511000276 3 --Numeron Calling/Direct ==severely cripped due to new master rules, extremely hard to resolve 
+511000809 0 --Spectral Ice Floe ==little to no cost for a quick protection against anything
+200000000 3 --Creator of Hope == situational, and less effective due to Winning formula ban
+200000002 3 --Creator of Miracles == situational, and less effective due to Winning formula ban
+511002651 3 --Odd-Eyes Persona Dragon (Anime) == effect is no longer quick 
+511009047 1 --Performapal Lizardraw (Anime) ==even though it shuffles itself, it is still a free draw. Also the monster effetc not being a hard OPT can be dangerous
+
+
+
+
+
 
