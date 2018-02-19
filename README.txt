@@ -4,7 +4,7 @@ Next Version: 2018.2 Anime
 This file contains the reasons why cards are added or removed from the list
 
 IMPORTANT:
-Due to how alias works in Ygopro, anime cards that has an OCG counterpart have to be banned/limited via OCG ID. This leads to many problems, but, unfortunately, it's what we have for now.
+Due to how alias works in Ygopro, anime cards that have an OCG counterpart have to be banned/limited via OCG ID. This leads to many problems, but, unfortunately, it's what we have for now.
 
 
 
