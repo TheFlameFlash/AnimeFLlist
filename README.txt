@@ -1,6 +1,6 @@
 # AnimeFLlist
-Current Version: 2017.11 Anime
-Next Version: 2018.2 Anime
+Current Version: 2018.4 Anime
+Next Version: 2018.4 Anime
 This file contains the reasons why cards are added or removed from the list
 
 IMPORTANT:
