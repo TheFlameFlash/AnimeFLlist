@@ -1,17 +1,12 @@
 # AnimeFLlist
 Current Version: 2018.4 Anime
-Next Version: 2018.4 Anime
+Next Version: 2018.4 Anime (changes to be implemented)
 This file contains the reasons why cards are added or removed from the list
 
 IMPORTANT:
 Due to how alias works in Ygopro, anime cards that have an OCG counterpart have to be banned/limited via OCG ID. This leads to many problems, but, unfortunately, it's what we have for now.
 
-
-
-Changelog (to the new version)
-
-
-ID   New Limitation --   CARD NAME = Reason
+#CHANGELOG (from version 2017.11 to 2018.4)
 
 511005654 0 --Dark Hole (DOR) = Heavy Storm AND Dark Hole in a single card for a costless board wipe
 511000751 0 --Blade Graveyard = Recycler for any card. Easy to put in the graveyard
@@ -52,7 +47,7 @@ ID   New Limitation --   CARD NAME = Reason
 200000000 3 --Creator of Hope == situational, and less effective due to Winning formula ban
 200000002 3 --Creator of Miracles == situational, and less effective due to Winning formula ban
 511002651 3 --Odd-Eyes Persona Dragon (Anime) == effect is no longer quick 
-511009047 1 --Performapal Lizardraw (Anime) ==even though it shuffles itself, it is still a free draw. Also the monster effetc not being a hard OPT can be dangerous
+511009047 1 --Performapal Lizardraw (Anime) ==even though it shuffles itself, it is still a free draw. Also the monster effect not being a hard OPT can be dangerous
 
 
 
