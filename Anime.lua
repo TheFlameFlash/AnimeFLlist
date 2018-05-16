@@ -1,6 +1,6 @@
- !2018.4 Anime
- --[[
-#Forbidden Worlds (For Anime)
+!2018.5 Anime
+
+#Forbidden Worlds (For Anime List)
 53804307 0 --Blaster, Dragon Ruler of Infernos						MAIN DECK MONSTERS
 89399912 0 --Tempest, Dragon Ruler of Storms
 26400609 0 --Tidal, Dragon Ruler of Waterfalls
@@ -31,8 +31,6 @@
 16923472 0 --Wind-up Hunter
 31178212 0 --Majespecter Unicorn - Kirin
 21377582 0 --Master Peace, The True Dracoslaying King
-58984738 0 --Dinomight Knight, the True Dracofighter
-61468779 0 --Grandsoil the Elemental Lord
 30539496 0 --True King Lithosagym, the Disaster
 09929398 0 --Blackwing - Gofu the Vague Shadow
 15341821 0 --Dandylion
@@ -40,7 +38,9 @@
 23434538 0 --Maxx "C"
 40318957 0 --Performapal Skullcrobat Joker
 23558733 0 --Phoenixian Cluster Amaryllis
+76794549 0 --Astrograph Sorcerer
 20366274 0 --El Shaddoll Construct									EXTRA DECK MONSTERS
+43387895 0 --Supreme King Dragon Starving Venom
 17412721 0 --Elder Entity Norden
 25862681 0 --Ancient Fairy Dragon
 65536818 0 --Denglong, First of the Yang Zing	
@@ -83,6 +83,8 @@
 48130397 0 --Super Polymerization
 27770341 0 --Super Rejuvenation
 13035077 0 --Dragonic Diagram
+94220427 0 --Rank-Up-Magic Argent Chaos Force
+11110587 0 --That Grass Looks Greener
 28566710 0 --Last Turn											TRAPS CARDS
 27174286 0 --Return from the Different Dimension
 93016201 0 --Royal Oppression
@@ -93,6 +95,7 @@
 64697231 0 --Trap Dustshot
 80604091 0 --Ultimate Offering
 05851097 0 --Vanity's Emptiness
+
 #forbidden Anime
 100000000 0 --Chaos End Ruler -Ruler of the Beginning and the End			MAIN DECK MONSTERS START HERE
 511000787 0 --Rose Shaman
@@ -255,14 +258,14 @@
 513000002 0 --Mirror Wall
 511000907 0 --Compulsory Recoil Device
 511000773 0 --Traitor Fog
-#Limited Worlds (For Anime)
+
+#Limited Worlds (For Anime List)
 07902349 1 --Left Arm of the forbidden one						MAIN DECK MONSTERS
 44519536 1 --Left Leg of the forbidden one
 70903634 1 --Right Arm of the forbidden one
 08124921 1 --Right Leg of the forbidden one
 65518099 1 --Qliporth Scout
 33396948 1 --Exxodia the Forbidden One
-14878871 1 --Rescue Cat
 65192027 1 --Dark Armed Dragon
 78868119 1 --Deep Sea Diva
 64034255 1 --Genex Ally birdman
@@ -272,7 +275,6 @@
 68184115 1 --Inzektor DragonFly
 69207766 1 --Inzektor Hornet
 28297833 1 --Necroface
-80344569 1 --Neo-Spacian Grand Mole
 16226786 1 --Night Assailant
 78872731 1 --Zoodiac Ratpier
 55623480 1 --Fairy Tail - Snow
@@ -284,24 +286,24 @@
 96570609 1 --Ether the Heavenly monarch
 44335251 1 --Souleating Oviraptor
 36042004 1 --Babycerasaurus
-22499034 1 --Ignis Heat, the True Dracowarrior
 38572779 1 --Miscellaneousaurus
 92746535 1 --Luster Pendulum, the Dracoslayer
 50720316 1 --Elemental Hero Shadow Mist
 4474060 1 --SPYRAL Gear - Drone
 78080961 1 --SPYRAL Quik-Fix
 9047460 1 --Blackwing - Steam the Cloak
-27279764 1 --Apoqliphort Towers
 75732622 1 --Grinder Golem
 69610326 1 --Supreme King Dragon Darkwurm
 48686504 1 --Lonefire Blossom
 35272499 1 --Predaplant Ophrys Scorpio
+58984738 1 --Dinomight Knight, the True Dracofighter
 45222299 1 --Evigishki Gustkraken
 11877465 1 --Evigishki Mind Augus
 26674724 1 --Nekroz of Brionac
 89463537 1 --Nekroz of Unicore
 1561110 1 --ABC-Dragon Buster 									EXTRA DECK MONSTERS
 94977269 1 --El Shaddoll Winda
+39512984 1 --Gem-Knight Master Diamond
 75286621 1 --Invoked Mechaba	
 18239909 1 --Ignister Prominence, the Blasting Dracoslayer
 48063985 1 --Ritual Beast Ulti-Cannahawk
@@ -315,7 +317,6 @@
 27552504 1 --Beatrice, Lady of Eternal
 5043010 1 --Firewall Dragon				
 14087893 1 --Book of Moon 							SPELLS CARDS				
-11110587 1 --That Grass Looks Greener
 97211663 1 --Nekroz Cycle
 81674782 1 --Dimensional Fissure
 95308449 1 --Final Countdown
@@ -349,9 +350,9 @@
 54631665 1 --SPYRAL Resort
 83764718 1 --Monster Reborn
 83764719 1 --Monster Reborn	
-23314220 1 --Spellbook of Knowledge			
-94192409 1 --Compulsory Evacuation Device 			TRAPS CARDS
-54974237 1 --Eradicator Epidemic Virus
+23314220 1 --Spellbook of Knowledge
+91623717 1 --Chain Strike			
+54974237 1 --Eradicator Epidemic Virus					TRAP CARDS
 32723153 1 --Magical Explosion
 36468556 1 --Ceasefire
 21076084 1 --Trickstar Reincarnation
@@ -366,6 +367,7 @@
 09059700 1 --Infernity Barrier
 84749824 1 --Solemn Warning
 41420027 1 --Solemn Judgement
+
 #Limited Anime
 501000078 1 --Leonardo's Silver Skyship					MAIN DECK MONSTERS START HERE
 501000079 1 --The Twin Kings, Founders of the Empire
@@ -464,22 +466,22 @@
 511004411 1 --Photo Frame
 511001802 1 --Fake Friendship Treaty
 513000101 1 --Scrap-Iron Pitfall
-#Semi Limited Worlds (For anime)
-74311226 2 --Atlantean Dragoons
+
+#Semi Limited Worlds (For Anime List)
 59297550 2 --Wind-up Magician
 43722862 2 --Windwitch – Ice Bell
 41386308 2 --Mathematician
 14558127 2 --Ash Blossom & Joyous Spring
 86120751 2 --Aleister the Invoker
+27279764 2 --Apoqliphort Towers
 59750328 2 --Card of Demise
 47325505 2 --Fossil Dig
 48976825 2 --Burial from a Different Dimension
 73915051 2 --Scapegoat
 49430782 2 --True Draco Heritage
-91623717 2 --Chain Strike
 66399653 2 --Union Hangar
 40605147 2 --Solemn Strike
+
 #Semi-Limited Anime
 100000020 2 --After Glow
 100000117 2 --Life Force
---]]

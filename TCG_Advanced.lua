@@ -1,5 +1,5 @@
-!2018.2 TCG
---[[
+!2018.5 TCG
+
 #Forbidden TCG			
 53804307 0 --Blaster, Dragon Ruler of Infernos			MAIN DECK MONSTERS
 82301904 0 --Chaos Emperor Dragon - Envoy of the End
@@ -182,4 +182,4 @@
 48976825 2 --Burial from a Different Dimension
 83555666 2 --Ring of Destruction
 83555667 2 --Ring of Destruction
---]]
+

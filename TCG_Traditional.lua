@@ -1,8 +1,7 @@
+!2018.5 TCG Traditional
 
-!2018.2 Traditional
---[[
-#Forbidden Traditional
-#Limited Traditional
+#Forbidden TCG Traditional
+#Limited TCG Traditional
 7902349 1 --Left Arm of the forbidden one						MAIN DECK MONSTERS
 44519536 1 --Left Leg of the forbidden one
 70903634 1 --Right Arm of the forbidden one
@@ -171,8 +170,7 @@
 9059700 1 --Infernity Barrier
 84749824 1 --Solemn Warning
 91623717 1 --Chain Strike
-
-#semi limited Traditional
+#Semi Limited TCG Traditional
 27279764 2 --Apoqliphort Towers
 28297833 2 --Necroface
 59297550 2 --Wind-up Magician
@@ -181,4 +179,3 @@
 48976825 2 --Burial from a Different Dimension
 83555666 2 --Ring of Destruction
 83555667 2 --Ring of Destruction
---]]

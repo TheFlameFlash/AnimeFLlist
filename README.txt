@@ -1,12 +1,12 @@
 # AnimeFLlist
 Current Version: 2018.4 Anime
-Next Version: 2018.4 Anime (changes to be implemented)
 This file contains the reasons why cards are added or removed from the list
 
 IMPORTANT:
 Due to how alias works in Ygopro, anime cards that have an OCG counterpart have to be banned/limited via OCG ID. This leads to many problems, but, unfortunately, it's what we have for now.
 
-#CHANGELOG (from version 2017.11 to 2018.4)
+#CHANGELOG
+-- From version 2017.11 to 2018.4:
 
 511005654 0 --Dark Hole (DOR) = Heavy Storm AND Dark Hole in a single card for a costless board wipe
 511000751 0 --Blade Graveyard = Recycler for any card. Easy to put in the graveyard
@@ -48,6 +48,44 @@ Due to how alias works in Ygopro, anime cards that have an OCG counterpart have 
 200000002 3 --Creator of Miracles == situational, and less effective due to Winning formula ban
 511002651 3 --Odd-Eyes Persona Dragon (Anime) == effect is no longer quick 
 511009047 1 --Performapal Lizardraw (Anime) ==even though it shuffles itself, it is still a free draw. Also the monster effect not being a hard OPT can be dangerous
+
+-- From version 2018.4 to 2018.5
+511600013 1 --Cards of Consonance: draw 2 while setting up the graveyard with tuners.
+100000167 2 --Miracle Rupture: a foolish burial for rocks that allows you to draw
+100000239 2 --Xyz Treasure: even though hit by MR4, it still can generate a great card advantage with no draw backs
+100000474 1 --Fusion Birth: the fusion being more and more generic, it is will work most of the time, and it fills the grave with stuff to use later.
+22593417 0 --Topologic Gumblar Dragon (via OCG ID): non-opt destruction of hand
+100000478 1 --Ties of the Brethren (Anime): low cost to summon 2 monster from the deck that can be immedialtly used as material.
+111011901 2 --Rank-Up-Magic Astral Force (Anime): generic rank-up-magic to summon any xyz
+170000121 1 --Bonfire: ROTA for Fires
+511000330 1 --Infernal Transaction: is loopable when available at more than 1
+511000503 1 --Legacy of a HERO (Anime): draw 3 for HEROes
+511000543 0 --Summon Capture: OP Confiscation
+511001357 2 --Remove Bomb: easily abusable by necroface Metaphys decks while still burning
+511001470 2 --Doll Hammer: draw and destruction combined and 1 card
+511001669 2 --Balloon Party: costless token summoning
+511001678 2 --Pooch Party: costless token summoning
+511001769 2 --Xyz Gift (Anime)
+511001888 2 --Palenque Sarcophagus: free non-opt draw 2 card
+511001895 1 --Junk Dealer (Anime):summon back 2 warrior or machine monster from your GY and still able to use them as materials
+511002456 1 --Refracting Prism: summons from limbo
+511002549 0 --Brain Control (Anime): change of heart with a different name
+511002701 2 --Magic Planter (Anime)
+511002846 0 --Tuning (Anime): search and mill
+511002878 2 --Gagaga Academy Emergency Network (Anime): free summon from deck
+511002923 1 --Fair Exchange: potentially used for milling deck
+511009080 1 --Ancient Gear Double Imitation: two costless summons
+511009386 1 --Pendulum Halt (Anime): non opt, many decks can like just fine without the pendulum summon and still fulfill its conditions
+511009731 1 --Dual-Colored Eyes: extra deck set-up while drawing 2
+511009582 1 --Pendulum Card Burst: draw 2 whiile triggering effects
+511013015 0 --Photon Veil (Anime): search any 3 light monsters, the ultimate hand fixer
+511018008 0 --Duel: draw up to 6
+513000058 0 --Dark Magician of Chaos (Anime): the OP version of the OCG card; can potentially loop with spell that revive from gy
+
+
+
+
+
 
 
 

@@ -1,5 +1,5 @@
 !2018.4 OCG
---[[
+
 #Forbidden OCG
 20663556 0 --イレカエル Substitoad												MAIN DECK MONSTERS
 44910027 0 --ヴィクトリー・ドラゴン Victory Dragon
@@ -137,6 +137,7 @@
 23314220 1 --Spellbook of Knowledge
 36468556 1 --停戦協定 Ceasefire 												TRAPS CARDS
 83555666 1 --破壊輪 Ring of Destruction
+83555667 1 --破壊輪 Ring of Destruction
 32723153 1 --マジカル·エクスプロージョン Magical Explosion
 21076084 1 --Trickstar Reincarnation
 5851097 1 --虚無空間 Vanity's Emptiness
@@ -160,4 +161,3 @@
 40605147 2 --Solemn Strike
 84749824 2 --神の警告 Solemn Warning
 41420027 2 --神の宣告 Solemn Judgment
---]]
