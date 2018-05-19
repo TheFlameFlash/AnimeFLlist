@@ -81,6 +81,39 @@ Due to how alias works in Ygopro, anime cards that have an OCG counterpart have 
 511013015 0 --Photon Veil (Anime): search any 3 light monsters, the ultimate hand fixer
 511018008 0 --Duel: draw up to 6
 513000058 0 --Dark Magician of Chaos (Anime): the OP version of the OCG card; can potentially loop with spell that revive from gy
+513000022 1 --The Supremacy Sun (Anime): costless self revival
+511005044 2 --Giant Kra-Corn: enormous atk gain
+511600050 1 --Gandora-X the Dragon of Demolition (Anime): costless field destruction
+810000022 2 --Zeta Reticulant (Anime): costless token summoning
+511001971 0 --Road Raven Red Queen: costless and OP mind control
+344000000 2 --Garbage Lord (Anime): little cost for special summon
+511003077 1 --Endless Decay (Anime): huge beater
+511000762 1 --Red Lotus King, Flame Crime: quick burn damage (up to 2400)
+511001945 2 --Battlewasp - Twinbow the Attacker: costless summon
+513000006 1 --Three-Eyed Ghost: non HOPT searcher for all monster, easily summoned given its type
+513000005 1 --Thousand-Eyed Ghost: non HOPT searcher for all lv 4 or lower monster; cant miss timing, easily summoned given its type
+511005030 0 --Ojamachine Yellow: non-opt, summons a huge number of materials
+511000291 1 --Infernity Pawn
+511009162 0 --Performapal Handstandcoon (Anime): infinite spell activation
+513000094 0 --Future Fusion (Anime): fusion summon from the deck
+511009025 1 --Starving Venom Fusion Dragon (Anime)
+513000144 0 --Golden Castle of Stromberg (Anime): Your opponent must pay the cost by massive milling. The card itself cannot be destroyed by card effects.
+511009517 1 --Supreme King Dragon Clear Wing (Anime): the op version of the OCG card
+511009508 1 --Supreme King Dragon Dark Rebellion (Anime): the op version of the OCG card
+100000262 2 --Xyz Frame: lingering cannot attack, better than waboku and relateds
+511002092 0 --Number 73: Abyss Splash (Anime): a walking otk
+511002076 0 --Cat Shark (Anime): makes rank 4 monstes have 4 times their attacks
+511000149 0 --Kuribandit (Anime): huge draw or huge mill
+
+
+
+
+
+
+
+
+
+
 
 
 
