@@ -1,5 +1,5 @@
 # AnimeFLlist
-Current Version: 2018.5 Anime
+Current Version: 2018.7 Anime
 This file contains the reasons why cards are added or removed from the list
 
 IMPORTANT:
@@ -105,23 +105,17 @@ Due to how alias works in Ygopro, anime cards that have an OCG counterpart have 
 511002076 0 --Cat Shark (Anime): makes rank 4 monstes have 4 times their attacks
 511000149 0 --Kuribandit (Anime): huge draw or huge mill
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+-- From version 2018.5 to 2018.7
+511009000 0 --Timelord Proginitor, Vulgate: Generic, Can free the opponent Field for OTK and Mess the opponent's links location
+513000131 0 --Domain of the Dark Ruler: Cold wave is banned for reasons
+511001757 0 --Piri Reis Map: Super generic search without any restrictions or conditions
+511000502 1 --Gift of the Weak: has more targets than allure even tho its not as good, but with a combination of both can be problematic
+511000648 0 --Elegant Light LV4: able to trigger on discard effects and foolish goods
+111011904 0 --New Orders 8 Etheric Sebek:allowing easy s/t search along with pulling out cards like raigeki on opp turn
+511001973 0 --T.G. Recipro Dragonfly (Anime): able to loop summon itself to trigger cards like Hyper Librarian and Synchronized Realm.
+511002179 0 --Wish Dragon: Helps linkspam without any restrictions or conditions
+511000082 1 --Snow Fairy: test, similar to anti spell fregrance
+511000685 1 --Double-Rank-Up-Magic Utopia: Force another test
+511000443 3 --Path to Destiny: no reason for it to be there, there is more useful cards for direct attacks
+511001983 0 --Catapult Warrior (Anime): cannon soldier got banned for reason, catapult turtle got errata'd for that reason, ocg version is different for the same reason
+511002359 0 --Elemental HERO Flash (Anime): No need for explaination
